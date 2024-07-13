@@ -1,5 +1,12 @@
 {
   "__resolveType": "site/sections/Header.tsx",
-  "title": "<p>Click here to tweak this text however you want.</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>"
+  "title": "<p>Physics Wallah</p>",
+  "description": "<p>This text is entirely editable, tailor it freely.</p>",
+  "logo": {
+    "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/a5164ccd-c20d-4aa7-9669-73d7ded3e86f",
+    "alt": "PhysicsWallah",
+    "width": 100,
+    "height": 100,
+    "link": "https://www.pw.live/"
+  }
 }

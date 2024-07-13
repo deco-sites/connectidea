@@ -2,12 +2,86 @@
   "name": "Home",
   "path": "/",
   "sections": [
-    { "__resolveType": "Header" },
-    { "__resolveType": "site/sections/Social.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "site/sections/Image.tsx" },
-    { "__resolveType": "site/sections/Links.tsx" },
-    { "__resolveType": "Footer" }
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx",
+      "social": [
+        {
+          "label": "Linkedin",
+          "href": "https://www.linkedin.com/company/physicswallah/"
+        },
+        {
+          "label": "Instagram",
+          "href": "https://www.instagram.com/physicswallah"
+        },
+        {
+          "label": "Facebook",
+          "href": "https://www.facebook.com/physicswallah"
+        },
+        {
+          "label": "Twitter",
+          "href": "https://www.x.com/physicswallah"
+        },
+        {
+          "label": "WhatsApp"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "label": "Website",
+          "href": "https://www.pw.live/",
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/a148e313-558d-482b-a7e0-7f032c6e9c64"
+          }
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/dc57a91c-d3f4-4c2a-99ac-7e96cf5bc433"
+          },
+          "label": "LinkedIn",
+          "href": "https://www.linkedin.com/company/physicswallah/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/cc1d8115-689c-41c7-836d-cd000315a9cb"
+          },
+          "label": "YouTube",
+          "href": "https://www.youtube.com/@physicswallah/"
+        },
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/b97ee832-7e97-41c7-b090-956bdc9ff79f"
+          },
+          "label": "Instagram",
+          "href": "https://www.instagram.com/physicswallah"
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx",
+      "mobile": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/af22ac36-76b1-4fda-9764-de89a20bb6b9",
+      "desktop": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/61527a71-daa8-457f-806a-970a9ed2e05c"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {
+            "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/d413115c-cab7-4f47-baa5-28fbcbd4cb24"
+          },
+          "label": "PW",
+          "href": "https://www.pw.live/"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
   ],
   "__resolveType": "website/pages/Page.tsx"
 }
