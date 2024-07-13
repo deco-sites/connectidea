@@ -6,11 +6,11 @@
     }
   ],
   "seo": {
-    "titleTemplate": "%s",
     "descriptionTemplate": "%s",
     "type": "website",
     "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/294a9bca-e8f0-427c-baca-95fa8cf30207",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4959/f9b953ba-0be5-46f8-82e8-5254235232ec"
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/55132fac-d11a-431c-9282-037ee1ffb621",
+    "title": "Physics Wallah"
   },
   "global": [
     {
