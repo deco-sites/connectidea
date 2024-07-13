@@ -1,7 +1,7 @@
 {
   "__resolveType": "site/sections/Header.tsx",
   "title": "<p>Physics Wallah</p>",
-  "description": "<p>This text is entirely editable, tailor it freely.</p>",
+  "description": "<p style=\"text-align: center\"><span style=\"color: rgba(0, 0, 0, 0.9); font-size: 16px\">In the era where education has become business when it comes to coaching for engineering and medical aspirants, Mr. Alakh Pandey AKA PhysicsWallah aims to provide high-quality and affordable educational content free of cost or minimal cost. Alakh Pandey has been paving the way for millions of students through his YouTube Channel and PhysicsWallah App/Website on which the team provides lectures for, NEET, JEE Mains, and Advanced level </span><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://preparation.At\"><span style=\"color: rgba(0, 0, 0, 0.9); font-size: 16px\">preparation.At</span></a><span style=\"color: rgba(0, 0, 0, 0.9); font-size: 16px\"> Physics Wallah, students can opt from various batches such as Lakshya, Prayas and Manzil. These are divided based on the level of the student aided by all-inclusive, batch-specific study material with a focus on concept development. </span><br></p>",
   "logo": {
     "img": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/11779/a5164ccd-c20d-4aa7-9669-73d7ded3e86f",
     "alt": "PhysicsWallah",
